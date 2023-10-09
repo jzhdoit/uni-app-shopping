@@ -1,9 +1,9 @@
 {
-  "name": "uni-app-xiaotuxian",
+  "name": "uni-app-shopping",
   "version": "0.0.0",
   "author": {
-    "name": "itheima",
-    "url": "https://web.itheima.com/"
+    "name": "jzhdoit",
+    "url": "https://github.com/jzhdoit/uni-app-shopping.git"
   },
   "scripts": {
     "dev:app": "uni -p app",
